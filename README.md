@@ -1,2 +1,2 @@
 # portfolio
-https://karteek-portfolio.lovable.app/
+#https://karteek-portfolio.lovable.app/
